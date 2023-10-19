@@ -50,6 +50,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **Happy coding!** 🚀
-```
-
-In the above README, replace `yourusername` in the clone URL with your actual GitHub username. Additionally, consider adding a screenshot of your user login page to the repository and replace `screenshot.png` with the actual filename.
