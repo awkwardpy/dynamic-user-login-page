@@ -1,4 +1,3 @@
-```markdown
 # Dynamic User Login Page
 
 This project provides a dynamic user login page built using Bootstrap and the stylish Cool Goggles font. It's designed to be responsive and adapt to various screen sizes, creating a clean and user-friendly login experience.
